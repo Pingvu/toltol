@@ -1,6 +1,5 @@
-
-table,th,td{ 
-	border-collapse: collapse;
+table {
+	border: 1px black;
 }
 .sen {
 	text-align:center;
