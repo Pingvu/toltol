@@ -1,5 +1,13 @@
-<style>
+
 table,th,td{ 
 	border-collapse: collapse;
 }
-</style>
+.sen {
+	text-align:center;
+}
+.gen {
+	text-align:right;
+}
+tr:nth-child(even){background-color:orange;}
+tr:nth-child(odd){background-color:red;}
+tr:nth-child(1){background-color: white;}
